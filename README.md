@@ -1,3 +1,22 @@
+# WeTheGoverned – Decentralized Voter Platform
+
+Forked from Primal Android – customized for true representation in U.S. congressional districts.
+
+Features:
+- Real-time polling & discussion scoped to districts
+- Metrics comparison (official vs resident-reported)
+- Representative scorecards
+- Candidate manifestos & Q&A
+- Technical support tab
+
+Currently focused on Florida District 6 (FL-06) for beta.
+
+## Getting Started
+- Clone: git clone https://github.com/wethegoverned1776-lab/primal-android-app
+- Build: ./gradlew assembleDebug
+- Join FL-06: Verify as Tier 2+ resident to participate
+
+License: MIT (upstream) – contributions welcome!
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
